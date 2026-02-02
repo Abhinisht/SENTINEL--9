@@ -1,5 +1,5 @@
 # SENTINEL--9
-🛡️ Sentinel-9
+🛡️ # Sentinel-9
 Continuous Intent Verification for Secure Human–AI Interaction
 
 Sentinel-9 is a cybersecurity prototype that protects human intent in next-generation systems such as Brain-Computer Interfaces (BCIs) and AI-assisted applications.
@@ -7,20 +7,20 @@ Sentinel-9 is a cybersecurity prototype that protects human intent in next-gener
 Traditional security verifies identity once.
 Sentinel-9 verifies intent continuously.
 
-🚨 Problem: The Silent Hijack
+🚨# Problem: The Silent Hijack
 
 As human–machine interaction evolves, new security gaps emerge:
 
 Authentication remains valid after login
 
-Behavioral or neural signals can be intercepted or manipulated
+# Behavioral or neural signals can be intercepted or manipulated
 
 Malicious actions execute without breaking authentication
 
 This results in Silent Hijacking —
 where identity is verified, but intent is compromised.
 
-💡 Solution Overview
+💡 #Solution Overview
 
 Sentinel-9 introduces Semantic Intent Verification, a security layer that continuously evaluates whether actions being executed align with the authorized user’s genuine intent.
 
@@ -40,7 +40,7 @@ Contextual and semantic consistency
 
 Stress-related deviation patterns
 
-Decision Logic
+ # Decision Logic
 
 ✅ Allow — intent matches baseline
 
@@ -48,7 +48,7 @@ Decision Logic
 
 ❌ Block & isolate — malicious deviation
 
-🏗️ System Architecture (Triple-Lock Model)
+🏗️ # System Architecture (Triple-Lock Model)
 🔐 Lock 1 — Hardware Trust (mTLS)
 
 Mutual TLS authentication between client and server
@@ -81,7 +81,7 @@ System degrades gracefully instead of failing harshly
 
 This ensures both security and usability.
 
-🚀 Live Prototype
+🚀#  Live Prototype
 
 A working proof-of-concept demonstrates:
 
@@ -93,22 +93,22 @@ Cognitive baseline visualization (radar chart)
 
 Layer-wise verification pipeline (L1 → L9)
 
-🔗 Live App:
+🔗#  Live App:
 https://sentinel9.netlify.app/
 
 🛠️ Technology Stack
 
-Frontend
+ # Frontend
 
-Streamlit / React
+  React
 
 Tailwind CSS
 
-Backend
+ Backend
 
-Python (FastAPI)
+ # Python (FastAPI)
 
-Security
+ # Security
 
 Mutual TLS (mTLS)
 
@@ -122,7 +122,7 @@ Semantic deviation analysis
 
 Intent risk scoring
 
-🌍 Impact
+🌍 #  Impact
 
 Security
 
@@ -140,7 +140,7 @@ Financial
 
 Prevents coerced or hijacked high-value actions
 
-📚 Research Foundations
+📚 #  Research Foundations
 
 Behavioral Biometrics
 
@@ -152,7 +152,7 @@ Ethical AI & Neurorights
 
 Privacy-preserving system design
 
-🔮 Future Scope
+🔮 # Future Scope
 
 Secure AI copilots and cognitive assistants
 
@@ -162,4 +162,4 @@ Defense and critical infrastructure protection
 
 Standardization of intent-based security protocols
 
-Sentinel-9 aims to become the security standard for human intent.
+ # Sentinel-9 aims to become the security standard for human intent.
