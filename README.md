@@ -50,22 +50,9 @@ Unlike traditional one-time authentication, Sentinel-9 continuously evaluates **
 
 ---
 
-### Installation & Run
 
-```sh
-# Clone the repository
-git clone https://github.com/<YOUR_USERNAME>/sentinel-9.git
 
-# Navigate to project directory
-cd sentinel-9
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-ccaab305a6e1a9ad7447fc0d76f6a6546fb4d6ae
-=======
 # SENTINEL--9
 🛡️ # Sentinel-9
 Continuous Intent Verification for Secure Human–AI Interaction
@@ -160,6 +147,8 @@ RED ALERT triggering during abnormal behavior
 Cognitive baseline visualization (radar chart)
 
 Layer-wise verification pipeline (L1 → L9)
+A youtube video for guidance 
+https://youtu.be/xQuYtpPFFaA?si=dhXj7W5QuHOykFim
 
 🔗#  Live App:
 https://sentinel9.netlify.app/
@@ -231,4 +220,4 @@ Defense and critical infrastructure protection
 Standardization of intent-based security protocols
 
  # Sentinel-9 aims to become the security standard for human intent.
->>>>>>> c8ed0ef555a9feadd2bab16e8b6e21276aa81030
+
